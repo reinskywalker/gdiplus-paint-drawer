@@ -1,0 +1,9 @@
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\bin\Debug\PaintDrawX.exe
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\bin\Debug\PaintDrawX.pdb
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\obj\Debug\PaintDrawX.csproj.AssemblyReference.cache
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\obj\Debug\PaintDrawX.Properties.Resources.resources
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\obj\Debug\PaintDrawX.csproj.GenerateResource.cache
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\obj\Debug\PaintDrawX.csproj.CoreCompileInputs.cache
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\obj\Debug\PaintDrawX.exe
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\obj\Debug\PaintDrawX.pdb
+C:\Users\reinskywalker\Documents\Github\gdiplus-paint-drawer\obj\Debug\PaintDrawX.MainApp.resources
